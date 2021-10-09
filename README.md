@@ -1,8 +1,8 @@
 # UzEx tasks
 
-```eshopping.docx``` faylida yoritildan batafsil vazifa togrisida.
+```eshopping.docx``` here have more clearly info about e-Shopping project.
 
-Talablar:
+Requirements:
 
 -  .NET Core MVC
 -  SQLServer Locale DB
