@@ -1,4 +1,4 @@
-# UzEx tasks
+# UzEx e-Shopping
 
 ```eshopping.docx``` here have more clearly info about e-Shopping project.
 
