@@ -4,7 +4,7 @@
 
 Requirements:
 
--  .NET Core MVC
+-  .NET Core MVC (3.1/5.0)
 -  SQLServer Locale DB
 -  EF Migration
 -  Seed default data (create same test logins for a both modules)
