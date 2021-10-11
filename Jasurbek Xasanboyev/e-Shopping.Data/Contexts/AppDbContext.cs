@@ -5,7 +5,7 @@ using System;
 
 namespace e_Shopping.Data.Contexts
 {
-    class AppDbContext : IdentityDbContext<ApiUser, Role, Guid>
+    public class AppDbContext : IdentityDbContext<ApiUser, Role, Guid>
     {
         public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
